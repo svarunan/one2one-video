@@ -1,0 +1,20 @@
+{
+  "name": "one2one-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "signaling.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svarunan/one2one-video.git"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  },  
+  "author": "Sasivarunan K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svarunan/one2one-video/issues"
+  },
+  "homepage": "https://github.com/svarunan/one2one-video#readme"
+}
