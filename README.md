@@ -8,3 +8,6 @@ Supporting 3rd party Libs:
 
 Adapter.js // Shim to all supporting broswers
 
+`npm install`
+
+`node signalling.js`
